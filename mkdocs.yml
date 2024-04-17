@@ -1,5 +1,13 @@
+---
+hide:
+  - navigation
+  - toc
+---
 site_name: kalle309 github page
 theme:
   name: material
   palette:
     primary: teal
+plugins:
+  - search:
+      enabled: false
