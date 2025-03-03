@@ -12,9 +12,9 @@ This site is made with [mkdocs](https://www.mkdocs.org) and is hosted on github.
 
 * Technology
 * Linux :simple-linux:
-* Kubernetes
+* Kubernetes :simple-kubernetes:
 * Security
 * Networking
-* Python
-* Ansible
+* Python :simple-python:
+* Ansible :simple-ansible:
 
