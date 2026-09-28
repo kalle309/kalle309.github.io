@@ -17,7 +17,8 @@ theme:
   features:
     - content.code.copy
     - navigation.tabs
-custom_dir: overrides
+extra_css:
+  - css/main.css
 nav:
   - Home: index.md
   - Now: now.md
