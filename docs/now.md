@@ -12,7 +12,7 @@ This is a living page where I track what I'm currently focusing on. Instead of a
 - **3D Print Queue**: Printing some custom brackets for my server rack.
 
 ## 📝 Quick Notes
-- Currently obsessed with: `K3s`
+- Currently obsessed with: `Talos Linux`
 - Current caffeine level: High ☕
 
 ---
